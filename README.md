@@ -1,4 +1,4 @@
 # group-ownership
 to run tests:
 
-    $./gradew test
+    $./gradlew test
